@@ -1,5 +1,10 @@
-# nexgen
+# nexgen 
+
+[![npm](https://img.shields.io/npm/v/nexgen.svg?style=flat-square)](https://www.npmjs.com/package/nexgen) [![npm](https://img.shields.io/npm/dm/nexgen.svg?style=flat-square)](https://www.npmjs.com/package/nexgen)
+
 Get the current song on a radio station using NexGen
+
+
 
 ## Installation
 
@@ -45,11 +50,11 @@ nexgen.next(function(track) {
 
 ##### New Zealand
 
-[George FM](https://github.com/samwalshnz/nexgen-georgefm)
-[Magic](https://github.com/samwalshnz/nexgen-magic)
-[Mai FM](https://github.com/samwalshnz/nexgen-maifm)
-[More FM](https://github.com/samwalshnz/nexgen-morefm)
-[The Breeze](https://github.com/samwalshnz/nexgen-thebreeze)
-[The Edge](https://github.com/samwalshnz/nexgen-theedge)
-[The Rock](https://github.com/samwalshnz/nexgen-therock)
-[The Sound](https://github.com/samwalshnz/nexgen-thesound)
+- [George FM](https://github.com/samwalshnz/nexgen-georgefm)
+- [Magic](https://github.com/samwalshnz/nexgen-magic)
+- [Mai FM](https://github.com/samwalshnz/nexgen-maifm)
+- [More FM](https://github.com/samwalshnz/nexgen-morefm)
+- [The Breeze](https://github.com/samwalshnz/nexgen-thebreeze)
+- [The Edge](https://github.com/samwalshnz/nexgen-theedge)
+- [The Rock](https://github.com/samwalshnz/nexgen-therock)
+- [The Sound](https://github.com/samwalshnz/nexgen-thesound)
