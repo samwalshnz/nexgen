@@ -27,7 +27,7 @@ var nexgen = new Nexgen('http://www.theedge.co.nz/Portals/0/Inbound/NowPlaying/N
 
 ```
 nexgen.current(function(track) {
-    console.log(`Currently playing {track.title} by {track.artist}`);
+    console.log('Currently playing ' + track.title + ' by ' + track.artist);
 });
 ```
 
@@ -35,6 +35,6 @@ nexgen.current(function(track) {
 
 ```
 nexgen.next(function(track) {
-    console.log(`Next song will be {track.title} by {track.artist}`);
+    console.log('Next song will be ' + track.title + ' by ' + track.artist);
 });
 ```
