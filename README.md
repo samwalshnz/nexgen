@@ -38,3 +38,18 @@ nexgen.next(function(track) {
     console.log('Next song will be ' + track.title + ' by ' + track.artist);
 });
 ```
+
+## Example Packages
+
+#### Radio Stations
+
+##### New Zealand
+
+[George FM](https://github.com/samwalshnz/nexgen-georgefm)
+[Magic](https://github.com/samwalshnz/nexgen-magic)
+[Mai FM](https://github.com/samwalshnz/nexgen-maifm)
+[More FM](https://github.com/samwalshnz/nexgen-morefm)
+[The Breeze](https://github.com/samwalshnz/nexgen-thebreeze)
+[The Edge](https://github.com/samwalshnz/nexgen-theedge)
+[The Rock](https://github.com/samwalshnz/nexgen-therock)
+[The Sound](https://github.com/samwalshnz/nexgen-thesound)
