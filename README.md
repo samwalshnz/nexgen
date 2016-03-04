@@ -1,6 +1,7 @@
 # nexgen 
 
 [![npm](https://img.shields.io/npm/v/nexgen.svg?style=flat-square)](https://www.npmjs.com/package/nexgen) [![npm](https://img.shields.io/npm/dm/nexgen.svg?style=flat-square)](https://www.npmjs.com/package/nexgen)
+[![npm](https://img.shields.io/npm/l/nexgen.svg?style=flat-square)](https://www.npmjs.com/package/nexgen)
 
 Get the current song on a radio station using NexGen
 
